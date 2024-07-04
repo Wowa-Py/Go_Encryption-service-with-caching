@@ -1,4 +1,5 @@
 .env
 
 REDIS_ADDR=redis:6379
+
 REDIS_PASSWORD=
