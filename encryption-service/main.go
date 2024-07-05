@@ -2,10 +2,11 @@ package main
 
 import (
 	"encryption-service/config"
-	"encryption-service/handlers"
 	"encryption-service/middlewares"
 	"log"
 	"net/http"
+
+	handlers "encryption-service/hendlers"
 
 	"github.com/gorilla/mux"
 )
